@@ -12,13 +12,15 @@ The effectiveness of VISTA was demonstrated by comparing tourism-related and non
 Finally, there was a low overlap between objects in the two photo collections. 
 Based on these results, we conclude that VISTA can help tourists tackle the problem of finding relevant tourism-related photos among the high volume of photos available on Instagram.
 
-## files:
-1. Paper_Visualizations.ipynb -> A Jupyter notebook for generating our figures and graphs.
-2. predict_image_by_classifier.py -> A toy sample to predict using the VISTA classifier on a photo.  
-3. train_test_classifier.py -> A Python file used to train and predict the VISTA classifier.
-4. test_set_generation_InstaCities100K_dataset.py -> A Python file used to generate the test set based on the InstaCities100K dataset.
-5. classifier_performance.py -> A Python file used to test the VISTA classifier.
-6. predict_classiifer_test_InstaCities100K_dataset.py -> A Python file used to predict on the InstaCities100K dataset using the trained VISTA classifier.
+## Files:
+1. **Paper_Visualizations.ipynb** -> A Jupyter notebook for generating our figures and graphs.
+2. **predict_image_by_classifier.py** -> A toy sample to predict using the VISTA classifier on a photo.  
+3. **train_test_classifier.py** -> A Python file used to train and predict the VISTA classifier.
+4. **test_set_generation_InstaCities100K_dataset.py** -> A Python file used to generate the test set based on the InstaCities100K dataset.
+5. **classifier_performance.py** -> A Python file used to test the VISTA classifier.
+6. **predict_classiifer_test_InstaCities100K_dataset.py** -> A Python file used to predict on the InstaCities100K dataset using the trained VISTA classifier.
+7. The rest of the files can be found in the following link: [link](https://geopandas.readthedocs.io/en/latest/getting_started/install.html#creating-a-new-environment)
+
 
 ## BibTeX Citation
 If you use VISTA in a scientific publication, we would appreciate using the following citation:
