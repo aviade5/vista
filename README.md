@@ -4,7 +4,7 @@ Automated Photo Filtering for Tourism Domain Using Deep and Active Learning: The
 ## Abstract:
 Social media platforms like Instagram significantly influence tourists' travel decisions by providing them with valuable insights, recommendations, authentic information, and points of interest. 
 However, photos shared with location-specific hashtags, even those related to tourist attractions, do not always reflect the actual destination, creating challenges for potential visitors seeking accurate information. 
-To assist tourists in finding pertinent tourism information for specific destinations, we propose \emph{VISTA}: Visual Identification of Significant Travel Attractions. 
+To assist tourists in finding pertinent tourism information for specific destinations, we propose VISTA: Visual Identification of Significant Travel Attractions. 
 The proposed method employs deep learning and active learning techniques to automatically classify photos into: 'Tourism-Related' photos (i.e., photos related to tourism) and 'Non-Tourism-Related' photos (i.e., photos unrelated to tourism). 
 To train our machine learning classifier, we created a dataset containing photos of the 10 most popular Israeli cities on Instagram. The classifier obtained an accuracy score of 0.965 and a weighted F1 score of 0.964. 
 Evaluating our classifier's global generalization on the InstaCities100K dataset, derived from InstaCities1M, yielded an accuracy score of 0.958 and a weighted F1 score of 0.959. 
