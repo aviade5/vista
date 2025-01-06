@@ -26,16 +26,14 @@ Based on these results, we conclude that VISTA can help tourists tackle the prob
 If you use VISTA in a scientific publication, we would appreciate using the following citation:
 
 ```
-@article{paradise2024,
-    doi       = {},
-    url       = {},
-    year      = {2024},
-    publisher = {},
-    volume    = {},
-    number    = {},
-    pages     = {},
-    author    = {},
-    title     = {},
-    journal   = {}
+@article{paradise2024automated,
+  title={Automated photo filtering for tourism domain using deep and active learning: the case of Israeli and worldwide cities on instagram},
+  author={Paradise-Vit, Abigail and Elyashar, Aviad and Aronson, Yarden},
+  journal={Information Technology \& Tourism},
+  volume={26},
+  number={3},
+  pages={553--582},
+  year={2024},
+  publisher={Springer}
 }
 
